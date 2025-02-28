@@ -1,7 +1,7 @@
 ### ITE393-P3 Activity & Quiz
 used with Jetpack Compose
 
-drawables and res files are available in the source code or can be downloaded [here]([url](https://drive.google.com/drive/folders/1H3TCedKK3aU0avItKlYElKQ2yBri4lrY?usp=sharing)):
+drawables and res files are available in the source code or can be downloaded [here]([https://drive.google.com/drive/folders/1H3TCedKK3aU0avItKlYElKQ2yBri4lrY?usp=sharing])(https://drive.google.com/drive/folders/1H3TCedKK3aU0avItKlYElKQ2yBri4lrY?usp=sharing)):
 images and sounds are copied from [orkuneyb/animal_sounds_flutter](https://github.com/orkuneyb/animal_sounds_flutter) project.
 
 ---
